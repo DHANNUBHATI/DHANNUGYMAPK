@@ -4,13 +4,7 @@
     "slug": "dhannu-bhati-gym",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "scheme": "dhannubhati",
     "platforms": ["android"],
-    "jsEngine": "hermes",
-    "android": {
-      "package": "com.dhannubhatigym",
-      "versionCode": 1
-    }
+    "android": { "package": "com.dhannubhatigym", "versionCode": 1 }
   }
 }
