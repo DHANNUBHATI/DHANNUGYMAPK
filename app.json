@@ -3,9 +3,14 @@
     "name": "Dhannu Bhati Gym",
     "slug": "dhannu-bhati-gym",
     "version": "1.0.0",
-    "sdkVersion": "48.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "dhannubhati",
+    "platforms": ["android"],
+    "jsEngine": "hermes",
     "android": {
-      "package": "com.dhannubhatigym"
+      "package": "com.dhannubhatigym",
+      "versionCode": 1
     }
   }
 }
