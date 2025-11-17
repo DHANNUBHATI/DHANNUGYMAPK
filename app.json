@@ -8,6 +8,11 @@
     "android": {
       "package": "com.dhannubhatigym",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dhannu-bhati-gym-android-apk-build"
+      }
     }
   }
 }
